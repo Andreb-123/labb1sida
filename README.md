@@ -3,7 +3,7 @@ Detta är en webbsida som handlar om gaming, främst om world of warcraft.
 
 ## Just denna sidan använder sig mest av HTML.
 
-##Publicierade versioner :
+## Publicierade versioner :
 https://andreb-123.github.io/labb1sida
 https://labb1sida.netlify.app/
 
