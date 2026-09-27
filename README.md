@@ -1,13 +1,13 @@
-#Min sida
+# Min sida
 Detta är en webbsida som handlar om gaming, främst om world of warcraft.
 
-##Just denna sidan använder sig mest av HTML.
+## Just denna sidan använder sig mest av HTML.
 
 ##Publicierade versioner :
 https://andreb-123.github.io/labb1sida
 https://labb1sida.netlify.app/
 
-##Svar på gitfrågor
+## Svar på gitfrågor
 
 ## Vad är skillnaden på gidd add och git commit?
 Git add väljer vilka ändringar som är med i nästa kommit medans git commit sparar ändringarna i git.
